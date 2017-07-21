@@ -43,6 +43,7 @@
     "react-native-drawer": "^2.3.0",
     "react-native-easy-grid": "0.1.9",
     "react-native-keyboard-aware-scroll-view": "0.2.9",
+    "react-native-macos": "^0.15.3",
     "react-native-vector-icons": "~4.1.1",
     "react-tween-state": "^0.1.5",
     "tween-functions": "^1.0.1"
